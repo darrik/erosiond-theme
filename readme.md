@@ -6,4 +6,4 @@ Source for the original theme can be found [here](http://dotshare.it/dots/449/).
 
 Preview
 -------
-![preview](preview.png "preview")
+![preview](https://raw.github.com/darrik/erosiond-theme/master/preview.png "preview")
